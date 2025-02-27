@@ -1,6 +1,18 @@
 #TASK-1: DATA-PIPELINE-DEVELOPMENT
 
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: GHODKE VAIBHAVSHRI VISHWANATH
+
+INTERN ID: CT12IBE
+
+DOMAIN: DATA SCIENCE
+
+DURATION: 8 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+This is a project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
